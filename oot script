@@ -8138,15 +8138,20 @@ King Zora : Then you think they'll spoil before you can get there? It's not that
   Lake Hylia  
 
 [002]     : Oh, wow! I haven't seen an Eyeball Frog like this since Zora's
+
             Domain froze over! These eyeballs are so delicious! Tonight I will
+
             cook fried eyeballs for the first time in a long time! Uhoy hoy
+
             hoo houy hoy! Such great stuff! Please say thank you to King Zora!
 
             Eh? What? These are for making Biggoron's Eye Drops? Oh, how
+
             disappointing! You should have said so in the first place!
 
             Here it is. This medicine doesn't have any preservatives in it.
             So it won't last long at this temperature. Run as fast as you can
+
             to Death Mountain. You're young--you can do it!
 
 <game>    : You traded the Eyeball Frog for the World's Finest Eye Drops!
@@ -8201,8 +8206,11 @@ GreatFairy: When you charge power for a Spin Attack, Magic Power will be
             consumed. Pay attention to your green Magic Meter!
 
             Hey, boy! You're a messenger of the Royal Family, aren't you?
+
             Next time you're in their neighborhood, you should drop in on
+
             a friend of mine who lives by Hyrule Castle. She'll surely grant
+            
             you another new power!
 
             When battle has made you weary, please come back to see me.
@@ -8210,7 +8218,8 @@ GreatFairy: When you charge power for a Spin Attack, Magic Power will be
   Great Fairies of Magic  
 
 GreatFairy: Welcome Link! I am the Great Fairy of Magic! I will give you a
-            magic spell. Please take it.
+            
+             magic spell. Please take it.
 
 * - The fairy near Hyrule Castle grants Link Din's Fire.
     The fairy in Zora's Fountain grants Link Farore's Wind.
@@ -8300,19 +8309,4 @@ Scrubs    :{1} I surrender! To make your quest easier, I can enable you to
              You can't have this now! Come back again!
 
                  -(No way)
-            YIKES! I'm going home then!
-            -----------------------------------------------
-
-
-           
-
- 
-
-
-
-         
-
-   
-
-
-
+            YIKES! I'm going home then
