@@ -264,7 +264,7 @@ Sign 17    The Lost Woods
 [010]      Do you want to know how to use the {C Up} Button?
 
             
-                 -(Yes)
+                 -
             If you press {C Up}, you can change your view. In a place like this,
             it will switch to a top-down view. Outdoors, in a field for example,
             it will switch to a first-person perspective. Also, when "Navi" is
@@ -395,7 +395,7 @@ Deku Tree  Oh... Navi... Thou hast returned...
             courage. Dost thou have courage enough to undertake this task?
 
 
-     -(Yes)
+     -
  - The Deku Tree lowers the portion of its trunk that resembles a mouth.
 
 Deku Tree  Then enter, brave Link, and thou too, Navi...
@@ -447,7 +447,7 @@ Deku Tree  Well done, Link... Thou hast verily demonstrated thy courage...
             Now, I have yet more to tell ye, wouldst thou listen...
 
 
-     -(Yes)
+     -
 <see below>
 
      -(No)
@@ -781,7 +781,7 @@ Sign 01    Shooting Gallery
 [020]      Do you want to play a game? It's 20 Rupees per play.
 
             
-                 -(Yes)
+                 -
             Nope, you don't have enough Rupees!
 
                - With sufficient funds
@@ -901,7 +901,7 @@ Navi       Strange...this door doesn't open...
             Do you want to try it?
 
             
-                 -(Yes)
+                 -
             Nope, you don't have enough Rupees!
 
                - With sufficient funds, he provides a Door Key.
@@ -1060,7 +1060,7 @@ Guard 01   Do you really want to go through this gate that much? Let me think
             about it... OK, but in return... Give me 10 Rupees...
 
             
-                 -(Yes)
+                 -
             Well, maybe that's too much for a kid to pay.
 
                - With sufficient funds
@@ -1118,7 +1118,7 @@ Zelda      ! Who?! Who are you? How did you get past the guards?
             shining stone... Do you have it?
 
 
-     -(Yes)
+     -
 <see below>
 
      -(No)
@@ -1179,7 +1179,7 @@ Zelda      The legend goes like this...
             Did you understand well the story I just told you?
 
 
-     -(Yes)
+     -
 <see below>
 
      -(No)
@@ -1196,8 +1196,8 @@ Zelda      That's great!
             him?
 
 
-     -(Yes)
-<no script>
+     -
+
 
      -(No)
 Zelda      Please! If you don't hurry, he'll be gone!
@@ -1331,8 +1331,8 @@ Saria      I've been waiting for you, Link! This is the Sacred Forest Meadow.
             forest. Would you like to play the Ocarina with me?
 
 
-     -(Yes)
-<no script>
+     -
+
 
      -(Don't do it)
 Saria      Huh?! How boring! C'mon! Play along!
@@ -1484,7 +1484,7 @@ Talon      Mumble...mumble... Huh? I'm awake already!
             It'll be 10 Rupees... Want to play?
 
             
-                 -(Yes)
+                 -
             You don't have enough Rupees!
 
                - With sufficient funds
@@ -1873,7 +1873,7 @@ Dampï¿½      Hey kid! Don't mess around with the graves!
             Do you want me to dig here? 10 Rupees for one hole.
 
             
-                 -(Yes)
+                 -
             You don't have enough Rupees!
 
             Nope, nothing here!
@@ -1894,7 +1894,7 @@ Dampï¿½      It's <####> now. The Gravedigging Tour is over now! I, Dampï¿�
 Diary      The gravekeeper's diary is here. Do you want to read it?
 
             
-                 -(Yes)
+                 -
             When I dug a hole, I found a treasure that stretches--BOING!
             and shrinks--BOING! It's so fun, I'll never give it to anybody!
 
@@ -2449,7 +2449,7 @@ Gaebora    Hoo hoo! Looks like you've gotten bigger and stronger already, Link!
             very well... How about... 10 Rupees for one piece?
 
             
-                 -(Yes)
+                 -
             You don't have enough money. I can't sell them to you.
             Chomp chomp...
 
@@ -2574,7 +2574,7 @@ $#  Zora's Domain  -  Social Script
 [003]      Have you seen Lord Jabu-Jabu?
 
             
-                 -(Yes)
+                 -
             According to the "Legend of Zora," the act of offering a fish to
             Lord Jabu-Jabu will make you happy.
 
@@ -2606,7 +2606,7 @@ $#  Zora's Domain  -  Social Script
             Want to play?
 
             
-                 -(Yes)
+                 -
             You don't have enough Rupees!
 
             OKAY! Pick up all the Rupees I throw from here. You have only a
@@ -2762,7 +2762,7 @@ Sign 03    Rules and Regulations
 [003]      Well, do you want to go fishing for 20 Rupees?
 
             
-                 -(Yes)
+                 -
             Shucks! You don't have enough money.
 
             Oh, no! You don't have a Rumble Pak! With a Rumble Pak, you can feel
@@ -3108,7 +3108,7 @@ Zelda      Now, Link. Play this melody in front of the altar in the Temple of
             Do you want to play?
 
             
-                 -(Yes)
+                 -
             You don't have enough Rupees!
 
                - With sufficient funds
@@ -3239,7 +3239,7 @@ Rauru      The Master Sword is a sacred blade which evil ones may never
             Well, do you understand your destiny?
 
 
-     -(Yes)
+     -
 <see below>
 
      -(No)
@@ -3528,7 +3528,7 @@ Sign 01    Heart-Pounding Gravedigging Tour!
 Diary      The gravekeeper's diary is here. Do you want to read it?
 
             
-                 -(Yes)
+                 -
             Whoever reads this, please enter my grave. I will let you have my
             stretching, shrinking keepsake. I'm waiting for you.
               --Dampï¿½
@@ -5126,7 +5126,7 @@ RunningMan I'm the wandering running man! I've run all over this land in search
             Will you challenge my record?
 
             
-                 -(Yes)
+                 -
             Excellent! Then... You go first. I'll give you a headstart.
             Now! Go ahead.
 
@@ -5204,7 +5204,7 @@ Gerudos    From now on, you're free to come and go as you please through the
             to try for 20 Rupees?
 
             
-                 -(Yes)
+                 -
             You don't have enough Rupees!
 
                - If less than 1,000 points are scored
@@ -5230,7 +5230,7 @@ Gerudos    From now on, you're free to come and go as you please through the
             Do you want to try for 20 Rupees?
 
             
-                 -(Yes)
+                 -
                - If less than 1,000 points are scored
 
             <#> points...Hmm... Wha-ha-ha! You have plenty of room for
@@ -5461,7 +5461,7 @@ Nabooru    First of all, let me introduce myself. I'm Nabooru of the Gerudos.
             How about it? Will you do it?
 
 
-     -(Yes)
+     -
 Nabooru    Thanks, kid! You and I, let's give Ganondorf and his followers
             a big surprise, shall we?
 
@@ -7091,7 +7091,7 @@ Guard      Wha-ha-ha-hah! Do you think you're in disguise, Mr. Hero?
             something..." mask... If you don't mind... Will you sell it to me?
 
             
-                 -(Yes)
+                 -
                - He dons the mask.
 
             My boy will be very happy with this! You really are Mr. Hero!
@@ -7191,7 +7191,7 @@ RunningMan I bet with those long ears you can hear the voices... Oh, these are
             expensive it is! Please sell it to me!
 
             
-                 -(Yes)
+                 -
             My long time dream! Returning to the wild life! Finally, the actor,
             stage and prop have been united!
 
@@ -7882,7 +7882,7 @@ Group A   {KBG} Wah hah hah! Do you think you're in disguise? How funny!
 
             What do you think? Will you try?
 
-     -(Yes)
+     -
      You borrowed a Pocket Egg! A Pocket Cucco will hatch from it
             overnight. Be sure to give it back when you are done with it.
 
@@ -7929,7 +7929,7 @@ Talon      What in tarnation? Can't a person get a little shut-eye around here?
             crowing. Do you want to keep Cojiro?
 
 
-     -(Yes)
+     -
      You returned the Pocket Cucco and got Cojiro in return! Unlike other
             Cuccos, Cojiro rarely crows.
 
@@ -7981,7 +7981,7 @@ Granny     Sniff sniff sniff... What a mysterious smell... You must have
             to me now!
 
 
-     -(Yes)
+     -
 Granny     If you see that fool, give this to him. It is the strongest medicine
             I have ever produced. However, this potion will not work on a
             monster...
@@ -8028,7 +8028,7 @@ Granny     Ultimate potion! How about 100 Rupees?
             mushrooms. Give it back!
 
 
-     -(Yes)
+     -
      You returned the Odd Potion and got the Poacher's Saw!
             The young punk guy must have left this behind.
 
@@ -8047,7 +8047,7 @@ Crptr Boss Hey, that saw! It's mine! But... I thought I left that saw with my
             repaired. Your coming here is great timing. Will you give me my saw?
 
 
-     -(Yes)
+     -
 Crptr Boss Good kid! Thanks! I'm sorry that I can't give you something as good
             in return, but...take this anyway!
 
@@ -8071,7 +8071,7 @@ Biggoron   That broken knife is surely my worrrrrrrrrrk... I really want to
             eyedrrrrrrops...
 
 
-     -(Yes)
+     -
      You checked in the Broken Goron's Sword and received a Prescription!
             Go see King Zora!
 
@@ -8093,7 +8093,7 @@ King Zora  Ooh... This is... well... hmmm... Hmmm... Eye drops... You might say
             Can you make it before they spoil?
 
 
-     -(Yes)
+     -
      You used the Prescription and received an Eyeball Frog! Be quick
             and deliver it to Lake Hylia while it's cold!
 
