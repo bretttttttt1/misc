@@ -1226,73 +1226,46 @@ Zelda      What happened? Did he see you? Don't worry. He doesn't have any idea
 
 
      -(OK)
-<see below>
-
      -(I don't believe you.)
 Zelda      Please believe me... My prophecies have never been wrong! Please!
 
 
 Zelda      Thank you!
 
-            I...I am afraid... I have a feeling that man is going to destroy
-            Hyrule. He has such terrifying power! But it's fortunate that you
-            have come...
+I...I am afraid... I have a feeling that man is going to destroy Hyrule. He has such terrifying power! But it's fortunate that you have come...
 
-            We must not let Ganondorf get the Triforce! I will protect the
-            Ocarina of Time with all my power! He shall not have it! You go find
-            the other two Spiritual Stones! Let's get the Triforce before
-            Ganondorf does, and then defeat him!
+We must not let Ganondorf get the Triforce! I will protect the Ocarina of Time with all my power! He shall not have it! You go find the other two Spiritual Stones! Let's get the Triforce before Ganondorf does, and then defeat him!
 
-            One more thing... Take this letter... I'm sure it will be helpful
-            to you.
+One more thing... Take this letter... I'm sure it will be helpful to you.
 
-  You received Zelda's Letter! Wow! This letter has Princess Zelda's
-            autograph! Set it to {C} and show it with {C}. On the Select Item
-            Subscreen, you can set it to {C left}, {C Down} or {C Right},
-            and then use that {C} to show it to people.
+You received Zelda's Letter! Wow! This letter has Princess Zelda's autograph! Set it to {C} and show it with {C}. On the Select Item Subscreen, you can set it to {C left}, {C Down} or {C Right}, and then use that {C} to show it to people.
 
-Zelda      My attendant will guide you out of the castle. Don't be afraid to
-            talk to her.
+Zelda      My attendant will guide you out of the castle. Don't be afraid to talk to her.
 
  - Near the courtyard's entrance.
 
-Impa       I am Impa of the Sheikahs. I am responsible for protecting Princess
-            Zelda. Everything is exactly as the Princess foretold.
+Impa       I am Impa of the Sheikahs. I am responsible for protecting Princess Zelda. Everything is exactly as the Princess foretold. You are a courageous boy... You are heading out on a big, new adventure, aren't you? My role in the Princess's dream was to teach a melody to the one from the forest. This is an ancient melody passed down by the Royal Family. I have played this song for Princess Zelda as a lullaby ever since she was a baby... There is mysterious power in these notes. Now listen carefully...
 
-            You are a courageous boy... You are heading out on a big, new
-            adventure, aren't you? My role in the Princess's dream was to
-            teach a melody to the one from the forest. This is an ancient
-            melody passed down by the Royal Family. I have played this song
-            for Princess Zelda as a lullaby ever since she was a baby...
-            There is mysterious power in these notes. Now listen carefully...
+Memorize this song...
 
-            Memorize this song...
+You've learned Zelda's Lullaby!
 
- You've learned Zelda's Lullaby!
-
-Impa       If the castle soldiers find you, there will be trouble. Let me lead
-            you out of the castle.
+Impa       If the castle soldiers find you, there will be trouble. Let me lead you out of the castle.
 
  - She takes Link to Hyrule Field.
 
 Impa       You brave lad... We must protect this beautiful land of Hyrule!
 
-            Take a good look at that mountain. That is Death Mountain, home of
-            the Gorons. They hold the Spiritual Stone of Fire.
+Take a good look at that mountain. That is Death Mountain, home of the Gorons. They hold the Spiritual Stone of Fire.
 
-            At the foot of Death Mountain you will find my village, Kakariko.
-            That is where I was born and raised. You should talk to some of the
-            villagers there before you go up Death Mountain.
+At the foot of Death Mountain you will find my village, Kakariko.
+That is where I was born and raised. You should talk to some of the villagers there before you go up Death Mountain.
 
-            The song I just taught you has some mysterious power. Only Royal
-            Family members are allowed to learn this song. Remember, it will
-            help to prove your connection with the Royal Family.
+The song I just taught you has some mysterious power. Only Royal Family members are allowed to learn this song. Remember, it will help to prove your connection with the Royal Family.
 
-            The Princess is waiting for you to return to the castle with the
-            stones. All right. We're counting on you!
+The Princess is waiting for you to return to the castle with the stones. All right. We're counting on you!
 
- - She tosses a Deku Nut to the ground. By the time that its light fades,
-    she is no longer present.
+ - She tosses a Deku Nut to the ground. By the time that its light fades, she is no longer present.
 
         Kokiri Forest        
 
@@ -1301,23 +1274,17 @@ Impa       You brave lad... We must protect this beautiful land of Hyrule!
 
 [002]      Saria wanted to see you... Did she find you already?
 
-[003]      You have a cool Slingshot, huh? You know what's cool about it?
-            You can aim while holding down {C} and shoot by releasing the
-            button! How cool! If you have the Slingshot ready, you can use
+[003]      You have a cool Slingshot, huh? You know what's cool about it? You can aim while holding down {C} and shoot by releasing the button! How cool! If you have the Slingshot ready, you can use
             {Z} Targeting to shoot while moving.... Did you know that?
 
-[004]      Did you know that if you hold {Control Stick} forward when you jump
-            off a cliff, you'll roll when you land. This will absorb the shock
-            of your landing. If you fall too far, though, you'll still get
-            hurt...
+[004]      Did you know that if you hold {Control Stick} forward when you jump off a cliff, you'll roll when you land. This will absorb the shock of your landing. If you fall too far, though, you'll still get hurt...
 
 [005]      Saria said she's waiting at the usual spot.
 
 [006]      Jumping is going out of style now. I'm crazy about doing backflips!
             Can you do one?
 
-[007]      Mido might know something about Saria's whereabouts. I think Mido is
-            sulking in one of the houses around here.
+[007]      Mido might know something about Saria's whereabouts. I think Mido is sulking in one of the houses around here.
 
 [008]      If you want to go to the Lost Woods, you'd better equip the right
             gear! Hee hee!
@@ -1342,12 +1309,9 @@ Events transcribed in areas 03-07 are optional.
 Gaebora    Hey, over here! Hoo hoo! Link...good to see you again! Listen to
             this! Hoot hoot...
 
-            After going through the Lost Woods, you will come upon the Sacred
-            Forest Meadow. That is a sacred place where few people have ever
-            walked.
+After going through the Lost Woods, you will come upon the Sacred Forest Meadow. That is a sacred place where few people have ever walked.
 
-            Shhhh...What's that? I can hear a mysterious tune... You should
-            listen for that tune too... Hoo hoo ho!
+Shhhh...What's that? I can hear a mysterious tune... You should listen for that tune too... Hoo hoo ho!
 
             Do you want to hear what I said again?
 
