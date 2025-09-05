@@ -1109,187 +1109,270 @@ Guard     : Hey you! Don't cause any trouble!
 
 Zelda     : ! Who?! Who are you? How did you get past the guards?
 
-            Oh? What's that? Is that...a fairy?! Then, are you... Are you
-            from the forest? Then...then...you wouldn't happen to have...
-            the Spiritual Stone of the Forest, would you?! That green and
-            shining stone... Do you have it?
+            Oh? What's that? 
+Is that...a fairy?! Then, are you... Are you
+            
+from the forest? Then...then...you wouldn't happen to have...
+ 
+the Spiritual Stone of the Forest, would you?! That green and
+ 
+shining stone... Do you have it?
 
 -----------------------------------------------------------
      -(Yes)
-<see below>
 
      -(No)
-Zelda     : Well, that's odd... I thought you might be the one from my dream...
+
+Zelda : Well, that's odd... I thought you might be the one from my dream...
             You really don't have it? Tell me the truth... Do you have it?
 -----------------------------------------------------------
 
 Zelda     : Just as I thought!
 
-            I had a dream...In the dream, dark storm clouds were billowing over
-            the land of Hyrule... But suddenly, a ray of light shot out of the
-            forest, parted the clouds and lit up the ground... The light turned
-            into a figure holding a green and shining stone, followed by a
-            fairy...
+            
+I had a dream...In the dream, dark storm clouds were billowing over
 
-            I know this is a prophecy that someone would come from the forest...
-            Yes, I thought you might be the one...
 
-            Oh, I'm sorry! I got carried away with my story and I didn't even
-            properly introduce myself! I am Zelda, Princess of Hyrule.
+the land of Hyrule... But suddenly, a ray of light shot out of the
 
-            What is your name? ..... Link... Strange...it sounds somehow...
-            familiar.
 
-            OK then, Link... I'm going to tell you the secret of the Sacred
-            Realm that has been passed down by the Royal Family of Hyrule.
-            Please keep this a secret from everyone...
+forest, parted the clouds and lit up the ground... The light turned
 
------------------------------------------------------------
-     -(OK)
+
+into a figure holding a green and shining stone, followed by a
+
+
+fairy...
+
+
+I know this is a prophecy that someone would come from the forest...
+
+
+Yes, I thought you might be the one...
+
+
+Oh, I'm sorry! I got carried away with my story and I didn't even
+
+
+properly introduce myself! I am Zelda, Princess of Hyrule.
+
+
+What is your name? ..... Link... Strange...it sounds somehow...
+
+
+familiar.
+
+
+OK then, Link... I'm going to tell you the secret of the Sacred
+
+         
+Realm that has been passed down by the Royal Family of Hyrule.
+
+
+Please keep this a secret from everyone...
+
+-(OK)
 <see below>
 
      -(No)
 Zelda     : C'mon...don't be a blabber-mouth! Please keep this a secret from
+
             everyone...
------------------------------------------------------------
 
 Zelda     : The legend goes like this...
 
-            The three goddesses hid the Triforce containing the power of the
-            gods somewhere in Hyrule. The power to grant the wish of the one who
-            holds the Triforce in his hands. If someone with a righteous heart
-            makes a wish, it will lead Hyrule to a golden age of prosperity...
-            If someone with an evil mind has his wish granted, the world will
-            be consumed by evil...That is what has been told... So, the ancient
-            Sages built the Temple of Time to protect the Triforce from evil
-            ones.
 
-            That's right... The Temple of Time is the entrance through which
-            you can enter the Sacred Realm from our world. But the entrance is
-            sealed with a stone wall called the Door of Time. And, in order to
-            open the door, it is said that you need to collect three Spiritual
-            Stones.
+The three goddesses hid the Triforce containing the power of the
 
-            And another thing you need...is the treasure that the Royal Family
-            keeps along with this legend... The Ocarina of Time!
+gods somewhere in Hyrule. The power to grant the wish of the one who
 
-            Did you understand well the story I just told you?
+holds the Triforce in his hands. If someone with a righteous heart
 
------------------------------------------------------------
-     -(Yes)
-<see below>
+makes a wish, it will lead Hyrule to a golden age of prosperity...
 
-     -(No)
+If someone with an evil mind has his wish granted, the world will
+
+be consumed by evil...That is what has been told... So, the ancient
+
+Sages built the Temple of Time to protect the Triforce from evil
+
+ones.
+
+
+That's right... The Temple of Time is the entrance through which
+
+you can enter the Sacred Realm from our world. But the entrance is
+
+sealed with a stone wall called the Door of Time. And, in order to
+
+open the door, it is said that you need to collect three Spiritual
+
+Stones.
+
+       
+And another thing you need...is the treasure that the Royal Family
+
+
+keeps along with this legend... The Ocarina of Time!
+
+
+Did you understand well the story I just told you?
+
+
+-(Yes)
+
+-(No)
+
 Zelda     : Oh, I'm sorry. I'm not very good at storytelling...
 
 * - She repeats herself from "That's right..."
------------------------------------------------------------
 
 Zelda     : That's great!
+          
+I forgot to tell you... I was spying through this window just now...
 
-            I forgot to tell you... I was spying through this window just now...
-            The other element from my dream...the dark clouds... I believe they
-            symbolize...that man in there! Will you look through the window at
-            him?
+The other element from my dream...the dark clouds... I believe they
 
------------------------------------------------------------
-     -(Yes)
-<no script>
+symbolize...that man in there! Will you look through the window at
 
-     -(No)
+him?
+
+-(Yes)
+
+-(No)
+
 Zelda     : Please! If you don't hurry, he'll be gone!
------------------------------------------------------------
 
 * - Behind the window, the man from Link's dream kneels on the ground.
 
-Zelda     : Can you see the man with the evil eyes? That is Ganondorf, the
-            leader of the Gerudos. They hail from the desert far to the west.
-            Though he swears allegiance to my father, I am sure he is not
-            sincere. The dark clouds that covered Hyrule in my dream...
-            They must symbolize that man!
+Zelda: 
+Can you see the man with the evil eyes? That is Ganondorf, the
+        
+leader of the Gerudos. They hail from the desert far to the west.
+ 
+Though he swears allegiance to my father, I am sure he is not
+  
+sincere. The dark clouds that covered Hyrule in my dream...
+ 
+They must symbolize that man!
 
 * - He looks toward the window. Link backs up.
 
-Zelda     : What happened? Did he see you? Don't worry. He doesn't have any idea
-            what we're planning...yet!
+Zelda: 
+What happened? Did he see you? Don't worry. He doesn't have any idea
 
-            ........Yes. I told my father about my dream... However, he didn't
-            believe it was a prophecy... But...I can sense that man's evil
-            intentions! What Ganondorf is after must be nothing less than the
-            Triforce of the Sacred Realm. He must have come to Hyrule to obtain
-            it! And, he wants to conquer Hyrule...no, the entire world!
+what we're planning...yet!
 
-            Link...now, we are the only ones who can protect Hyrule! Please!
+........Yes. I told my father about my dream... However, he didn't
 
------------------------------------------------------------
-     -(OK)
-<see below>
+believe it was a prophecy... But...I can sense that man's evil
 
-     -(I don't believe you.)
-Zelda     : Please believe me... My prophecies have never been wrong! Please!
------------------------------------------------------------
+intentions! What Ganondorf is after must be nothing less than the
 
-Zelda     : Thank you!
+Triforce of the Sacred Realm. He must have come to Hyrule to obtain
 
-            I...I am afraid... I have a feeling that man is going to destroy
-            Hyrule. He has such terrifying power! But it's fortunate that you
-            have come...
+it! And, he wants to conquer Hyrule...no, the entire world!
 
-            We must not let Ganondorf get the Triforce! I will protect the
-            Ocarina of Time with all my power! He shall not have it! You go find
-            the other two Spiritual Stones! Let's get the Triforce before
-            Ganondorf does, and then defeat him!
+Link...now, we are the only ones who can protect Hyrule! Please!
 
-            One more thing... Take this letter... I'm sure it will be helpful
-            to you.
+-(OK)
 
-<game>    : You received Zelda's Letter! Wow! This letter has Princess Zelda's
-            autograph! Set it to {C} and show it with {C}. On the Select Item
-            Subscreen, you can set it to {C left}, {C Down} or {C Right},
-            and then use that {C} to show it to people.
+-(I don't believe you.)
 
-Zelda     : My attendant will guide you out of the castle. Don't be afraid to
-            talk to her.
+Zelda: 
+
+Please believe me... My prophecies have never been wrong! Please!
+
+Zelda: 
+
+Thank you!
+
+           
+I...I am afraid... I have a feeling that man is going to destroy
+
+Hyrule. He has such terrifying power! But it's fortunate that you
+
+have come...
+
+We must not let Ganondorf get the Triforce! I will protect the
+
+Ocarina of Time with all my power! He shall not have it! You go find
+
+the other two Spiritual Stones! Let's get the Triforce before
+
+Ganondorf does, and then defeat him!
+
+One more thing... Take this letter... I'm sure it will be helpful
+to you.
+
+<game>    : 
+
+You received Zelda's Letter! Wow! This letter has Princess Zelda's
+autograph! Set it to {C} and show it with {C}. On the Select Item
+Subscreen, you can set it to {C left}, {C Down} or {C Right},
+and then use that {C} to show it to people.
+
+Zelda     : 
+My attendant will guide you out of the castle. Don't be afraid to
+talk to her.
 
 * - Near the courtyard's entrance.
 
-Impa      : I am Impa of the Sheikahs. I am responsible for protecting Princess
-            Zelda. Everything is exactly as the Princess foretold.
+Impa      : 
+I am Impa of the Sheikahs. I am responsible for protecting Princess
+Zelda. Everything is exactly as the Princess foretold.
+ You are a courageous boy... You are heading out on a big, new
+adventure, aren't you? My role in the Princess's dream was to
+teach a melody to the one from the forest. This is an ancient
+melody passed down by the Royal Family. I have played this song
+for Princess Zelda as a lullaby ever since she was a baby...
+There is mysterious power in these notes. Now listen carefully...
 
-            You are a courageous boy... You are heading out on a big, new
-            adventure, aren't you? My role in the Princess's dream was to
-            teach a melody to the one from the forest. This is an ancient
-            melody passed down by the Royal Family. I have played this song
-            for Princess Zelda as a lullaby ever since she was a baby...
-            There is mysterious power in these notes. Now listen carefully...
+Memorize this song...
 
-            Memorize this song...
+<game>    : 
 
-<game>    : You've learned Zelda's Lullaby!
+You've learned Zelda's Lullaby!
 
-Impa      : If the castle soldiers find you, there will be trouble. Let me lead
-            you out of the castle.
+Impa      : 
+
+If the castle soldiers find you, there will be trouble. Let me lead
+            
+you out of the castle.
 
 * - She takes Link to Hyrule Field.
 
-Impa      : You brave lad... We must protect this beautiful land of Hyrule!
+Impa      : 
 
-            Take a good look at that mountain. That is Death Mountain, home of
-            the Gorons. They hold the Spiritual Stone of Fire.
+You brave lad... We must protect this beautiful land of Hyrule!
 
-            At the foot of Death Mountain you will find my village, Kakariko.
-            That is where I was born and raised. You should talk to some of the
-            villagers there before you go up Death Mountain.
 
-            The song I just taught you has some mysterious power. Only Royal
-            Family members are allowed to learn this song. Remember, it will
-            help to prove your connection with the Royal Family.
+Take a good look at that mountain. That is Death Mountain, home of
 
-            The Princess is waiting for you to return to the castle with the
-            stones. All right. We're counting on you!
+the Gorons. They hold the Spiritual Stone of Fire.
+
+
+At the foot of Death Mountain you will find my village, Kakariko.
+
+That is where I was born and raised. You should talk to some of the
+
+villagers there before you go up Death Mountain.
+
+
+The song I just taught you has some mysterious power. Only Royal
+
+Family members are allowed to learn this song. Remember, it will
+           
+help to prove your connection with the Royal Family.
+
+
+The Princess is waiting for you to return to the castle with the
+
+stones. All right. We're counting on you!
 
 * - She tosses a Deku Nut to the ground. By the time that its light fades,
-    she is no longer present.
+
+she is no longer present.
 
         Kokiri Forest        
 
@@ -1332,21 +1415,24 @@ Mido      : If you're looking for Saria, she's in the Lost Woods, as usual.
 
          Lost Woods        
 
-The "Area XX" portions precede the meadow.
-The numbers have no bearing on the woods's layout.
-Events transcribed in areas 03-07 are optional.
-
 Gaebora   : Hey, over here! Hoo hoo! Link...good to see you again! Listen to
-            this! Hoot hoot...
+           
+this! Hoot hoot...
 
-            After going through the Lost Woods, you will come upon the Sacred
-            Forest Meadow. That is a sacred place where few people have ever
-            walked.
 
-            Shhhh...What's that? I can hear a mysterious tune... You should
-            listen for that tune too... Hoo hoo ho!
+After going through the Lost Woods, you will come upon the Sacred
 
-            Do you want to hear what I said again?
+Forest Meadow. That is a sacred place where few people have ever
+
+walked.
+
+
+Shhhh...What's that? I can hear a mysterious tune... You should
+
+listen for that tune too... Hoo hoo ho!
+
+
+Do you want to hear what I said again?
 
 * - "Yes" prompts him to repeat himself from "After going". "No" prompts:
 
@@ -1356,41 +1442,56 @@ Gaebora   : If you are courageous, you will make it through the forest just
 
  Sacred Forest Meadow 
 
-Saria     : I've been waiting for you, Link! This is the Sacred Forest Meadow.
-            It's my secret place! I feel... This place will be very important
-            for both of us someday. That's how I feel.
+Saria     : 
+I've been waiting for you, Link! This is the Sacred Forest Meadow.
 
-            If you play the Ocarina here, you can talk with the spirits in the
-            forest. Would you like to play the Ocarina with me?
+It's my secret place! I feel... This place will be very important
 
------------------------------------------------------------
-     -(Yes)
-<no script>
+for both of us someday. That's how I feel.
 
-     -(Don't do it)
+
+If you play the Ocarina here, you can talk with the spirits in the
+
+forest. Would you like to play the Ocarina with me?
+
+
+-(Yes)
+
+
+-(Don't do it)
+
 Saria     : Huh?! How boring! C'mon! Play along!
------------------------------------------------------------
 
 Saria     : OK, try to follow along with the melody I will play. Are you ready?
 
 <game>    : Follow along with Saria's Song!
 
-Saria     : Great! Great! Please don't forget this song! Do you promise?
-            When you want to hear my voice, play Saria's Song. You can talk
-            with me anytime...
+Saria     : 
+
+Great! Great! Please don't forget this song! Do you promise?
+
+When you want to hear my voice, play Saria's Song. You can talk
+
+with me anytime...
 
 <game>    : You've learned Saria's Song!
 
 Gaebora   : Hoo hoo! Did you learn an Ocarina song from Saria? That melody seems
-            to have some mysterious power. There may be some other mysterious
-            songs like this that you can learn in Hyrule.
 
-            If you hold the Ocarina with {C} where a melody is necessary,
-            a musical staff will appear. I recommend that you play a song you
-            know. I also suggest that you play even when a score is not
-            displayed, just like this: Hoo hoo hoo hoot hoot hoot!
+to have some mysterious power. There may be some other mysterious
 
-            Do you want to hear what I said again?
+songs like this that you can learn in Hyrule.
+
+
+If you hold the Ocarina with {C} where a melody is necessary,
+
+a musical staff will appear. I recommend that you play a song you
+
+know. I also suggest that you play even when a score is not
+
+displayed, just like this: Hoo hoo hoo hoot hoot hoot!
+  
+Do you want to hear what I said again?
 
 * - "Yes" prompts him to repeat himself from "If you hold". "No" prompts:
 
@@ -1501,24 +1602,36 @@ Malon     : My mother composed this song. Isn't it nice? Let's sing together.
 * - Epona returns.
 
 Malon     : Oh, Epona! She's grown fond of you, fairy boy!
-Talon     : Mumble...mumble... Huh? I'm awake already!
+Talon     : 
 
-            What? Well I'll be! If it ain't the forest kid from the other day!
-            By the way, thanks a lot for waking me up! It took some doing, but
-            I finally got Malon back in a good mood.
+Mumble...mumble... Huh? I'm awake already!
 
-            So, what are you up to today? Got some free time on your hands
-            you say? Well how about a little game? These three Cuccos I have
-            here are special Super Cuccos! I'm going to throw these Cuccos into
-            that there gaggle of normal Cuccos. If you can pick out these three
-            special birds from among the normal Cuccos within the time limit,
-            I'll give you something good. If you can't find them, I win.
 
-            It'll be 10 Rupees... Want to play?
+What? Well I'll be! If it ain't the forest kid from the other day!
 
-            -----------------------------------------------
+By the way, thanks a lot for waking me up! It took some doing, but
+
+I finally got Malon back in a good mood.
+
+
+So, what are you up to today? Got some free time on your hands
+
+you say? Well how about a little game? These three Cuccos I have
+
+here are special Super Cuccos! I'm going to throw these Cuccos into
+
+that there gaggle of normal Cuccos. If you can pick out these three
+
+special birds from among the normal Cuccos within the time limit,
+
+I'll give you something good. If you can't find them, I win.
+
+
+It'll be 10 Rupees... Want to play?
+
                  -(Yes)
-            You don't have enough Rupees!
+
+You don't have enough Rupees!
 
               * - With sufficient funds:
 
@@ -3155,7 +3268,6 @@ Zelda     : Now, Link. Play this melody in front of the altar in the Temple of
 
             START!
 
-
             WINNER!!
             Do you want to play again?
 
@@ -4666,10 +4778,7 @@ Tank      : The biggest fish ever caught in this pond weighed <#> pounds.
             The angler: Link
             (NOTE: With illegal sinking lure.)
 
-
-#$#$#$#$#$#$#$#$#$#$
-$#  Water Temple  #$
-#$#$#$#$#$#$#$#$#$#$
+  Water Temple  
 
 * - In a certain room:
 
@@ -7267,7 +7376,7 @@ Owner     : Welcome! Which mask can I lend to you?
 
                  -(Don't borrow a mask)
               * - Nothing more is said.
-            -----------------------------------------------
+            
 
     Masks 
 
@@ -7923,7 +8032,7 @@ Group A   :{KBG} Wah hah hah! Do you think you're in disguise? How funny!
 
      -(No)
 [KA-008]  : Oh, too bad...were you pecked by a Cucco when you were little?
------------------------------------------------------------
+
 
 * - At the next morning:
 
@@ -7961,7 +8070,7 @@ Talon     : What in tarnation? Can't a person get a little shut-eye around here?
             Since my brother has gone, it's strange, but Cojiro has stopped
             crowing. Do you want to keep Cojiro?
 
------------------------------------------------------------
+
      -(Yes)
 <game>    : You returned the Pocket Cucco and got Cojiro in return! Unlike other
             Cuccos, Cojiro rarely crows.
@@ -7971,7 +8080,7 @@ Talon     : What in tarnation? Can't a person get a little shut-eye around here?
      -(No)
 [KA-008]  : It looks as if you really like that other Cucco. OK, you can keep it
             for a while.
------------------------------------------------------------
+
 
  Lost Woods  
 
@@ -8013,7 +8122,7 @@ Granny    : Sniff sniff sniff... What a mysterious smell... You must have
             That bum! He had to go into the forest... ....I see. Hey, give it
             to me now!
 
------------------------------------------------------------
+
      -(Yes)
 Granny    : If you see that fool, give this to him. It is the strongest medicine
             I have ever produced. However, this potion will not work on a
@@ -8027,13 +8136,13 @@ Granny    : They say that there is no medicine that can cure a fool...
 
      -(No)
 Granny    : How sad... I just need a little...
------------------------------------------------------------
+
 
 * - Subsequently:
 
 Granny    : Ultimate potion! How about 100 Rupees?
 
-            -----------------------------------------------
+            
                  -(Buy)
               * - She provides a Blue Potion. If problems arise:
 
@@ -8044,7 +8153,7 @@ Granny    : Ultimate potion! How about 100 Rupees?
 
                  -(Don't buy)
             If you change your mind, come back and visit me... Hee hee hee!
-            -----------------------------------------------
+            
 
  Lost Woods  
 
@@ -8060,7 +8169,6 @@ Granny    : Ultimate potion! How about 100 Rupees?
 [008]     : Only is saw is left. Hee hee. That medicine is made of forest
             mushrooms. Give it back!
 
------------------------------------------------------------
      -(Yes)
 <game>    : You returned the Odd Potion and got the Poacher's Saw!
             The young punk guy must have left this behind.
@@ -8069,7 +8177,6 @@ Granny    : Ultimate potion! How about 100 Rupees?
 
      -(No)
 * - Nothing more is said.
------------------------------------------------------------
 
   Gerudo Valley  
 
@@ -8079,8 +8186,8 @@ Crptr Boss: Hey, that saw! It's mine! But... I thought I left that saw with my
             My Biggoron tool broke, so I was going to Goron city to get it
             repaired. Your coming here is great timing. Will you give me my saw?
 
------------------------------------------------------------
-     -(Yes)
+-(Yes)
+
 Crptr Boss: Good kid! Thanks! I'm sorry that I can't give you something as good
             in return, but...take this anyway!
 
@@ -8089,7 +8196,6 @@ Crptr Boss: Good kid! Thanks! I'm sorry that I can't give you something as good
 
      -(No)
 Crptr Boss: What?! You're a dirty, rotten thief!
------------------------------------------------------------
 
   Death Mountain Trail  
 
@@ -8103,8 +8209,7 @@ Biggoron  : That broken knife is surely my worrrrrrrrrrk... I really want to
             if you go to see Kinnnnnng Zorrrrrra... Please go get the
             eyedrrrrrrops...
 
------------------------------------------------------------
-     -(Yes)
+-(Yes)
 <game>    : You checked in the Broken Goron's Sword and received a Prescription!
             Go see King Zora!
 
@@ -8114,7 +8219,6 @@ Biggoron  : I've been waiting forrrrr you, with tearrrrrrs in my eyes...
      -(No)
 Biggoron  : Awww nooooo... I'm finished... My eyes arrrrrre so itchy...
             Owwwwww...
------------------------------------------------------------
 
   Zora's Domain  
 
@@ -8125,7 +8229,6 @@ King Zora : Ooh... This is... well... hmmm... Hmmm... Eye drops... You might say
 
             Can you make it before they spoil?
 
------------------------------------------------------------
      -(Yes)
 <game>    : You used the Prescription and received an Eyeball Frog! Be quick
             and deliver it to Lake Hylia while it's cold!
@@ -8133,7 +8236,6 @@ King Zora : Ooh... This is... well... hmmm... Hmmm... Eye drops... You might say
      -(No)
 King Zora : Then you think they'll spoil before you can get there? It's not that
             far if you make the connection on horseback...
------------------------------------------------------------
 
   Lake Hylia  
 
@@ -8296,7 +8398,6 @@ Scrubs    :{1} I surrender! To make your quest easier, I can enable you to
 
             Let's make a deal!
 
-            -----------------------------------------------
                  -(OK)
             Not enough Rupees! Come back again!
 
